@@ -1,2 +1,2 @@
 # space-invaders
-This is final project on [course](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+This is the final project on [How to Code: Simple Data course](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
